@@ -1,0 +1,5 @@
+server="DESKTOP-ITVEB8Q\SQLEXPRESS";
+Trusted_connection="Yes";
+DataBase="delfaTelegramBotData_18.00.0";
+User=" ";
+PWD=" "
