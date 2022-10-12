@@ -1,0 +1,10 @@
+https://open.spotify.com/collection/tracks
+
+https://github.com/MajMcCloud/TelegramBotFramework#progress-bar
+
+https://core.telegram.org/bots/api#editmessagetext
+
+https://telegrambots.github.io/book/2/send-msg/other-msg.html
+
+https://unicode-table.com/ru/search/?q=arrow+left
+

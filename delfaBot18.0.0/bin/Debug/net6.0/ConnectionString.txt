@@ -1,0 +1,5 @@
+server="192.168.20.253";
+Trusted_connection="Yes";
+DataBase="delfaTelegramBotData_18.00.0";
+User=" ";
+PWD=" "
