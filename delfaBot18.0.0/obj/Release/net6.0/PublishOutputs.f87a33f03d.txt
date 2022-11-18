@@ -1,0 +1,13 @@
+\\SERVER-1C\data1c\telegramBot\delfaBot18.0.0.exe
+\\SERVER-1C\data1c\telegramBot\delfaBot18.0.0.dll
+\\SERVER-1C\data1c\telegramBot\delfaBot18.0.0.deps.json
+\\SERVER-1C\data1c\telegramBot\delfaBot18.0.0.runtimeconfig.json
+\\SERVER-1C\data1c\telegramBot\delfaBot18.0.0.pdb
+\\SERVER-1C\data1c\telegramBot\Newtonsoft.Json.dll
+\\SERVER-1C\data1c\telegramBot\System.Data.SqlClient.dll
+\\SERVER-1C\data1c\telegramBot\Telegram.Bot.dll
+\\SERVER-1C\data1c\telegramBot\runtimes\win-arm64\native\sni.dll
+\\SERVER-1C\data1c\telegramBot\runtimes\win-x64\native\sni.dll
+\\SERVER-1C\data1c\telegramBot\runtimes\win-x86\native\sni.dll
+\\SERVER-1C\data1c\telegramBot\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\SERVER-1C\data1c\telegramBot\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,3 @@
+\\SERVER-1C\data1c\telegramBot\delfaBot18.0.0.pdb
+\\SERVER-1C\data1c\telegramBot\sni.dll
+\\SERVER-1C\data1c\telegramBot\delfaBot18.0.0.exe
