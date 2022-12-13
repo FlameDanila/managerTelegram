@@ -236,8 +236,8 @@ C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram
 C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\hostfxr.dll
 C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\hostpolicy.dll
 C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\mscordaccore.dll
-C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.1022.47605.dll
 C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\mscordbi.dll
 C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\mscorrc.dll
 C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\msquic.dll
 C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\ucrtbase.dll
+C:\Users\Администратор\Desktop\Projects\delete this\managerTelegram-ver1\managerTelegram-ver1\delfaBot18.0.0\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.1122.52304.dll
